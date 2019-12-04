@@ -18,7 +18,7 @@ Der text ist auch noch nicht fertig. Aber du kannst ihn dir ja mal anschauen und
 -	Eventuell Einzelstandortanalyse 
     o	 Digitale Geländemodell 
      --> Räumliche Konzentration von Windrädern 
-     -->	Winde 
+     -->	Wind 
      -->	Terrain (Hangneigung) 
      -->	Sichtbarkeitsanalyse (Schattenwurf)
 
