@@ -1,0 +1,9 @@
+[out:json][timeout:25];
+(
+  relation ['landuse'='industrial']({{bbox}});
+  relation ['landuse'='commercial']({{bbox}});
+); 
+/*added by auto repair*/
+(._;>;);
+/*end of auto repair*/
+out skel;

@@ -1,0 +1,2 @@
+https://public.opendatasoft.com/explore/dataset/landkreise-in-germany/export/?refine.name_1=Baden-W%C3%BCrttemberg&refine.name_2=Rhein-Neckar-Kreis
+https://public.opendatasoft.com/explore/dataset/landkreise-in-germany/export/?refine.name_1=Baden-W%C3%BCrttemberg&refine.name_2=Neckar-Odenwald-Kreis

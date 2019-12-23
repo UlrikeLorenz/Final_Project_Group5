@@ -1,0 +1,9 @@
+[out:json][timeout:25];
+(
+  relation ['power'='line']({{bbox}});
+  way ['power'='line']({{bbox}});
+); 
+/*added by auto repair*/
+(._;>;);
+/*end of auto repair*/
+out skel;

@@ -1,0 +1,11 @@
+Infoseite:
+https://www.dwd.de/DE/leistungen/quwind100/qu-wind_100.html;jsessionid=CCCFE729AB1CE9E125E0B6CCFC019033.live11044
+
+Datendownload:
+https://opendata.dwd.de/climate_environment/CDC/grids_germany/multi_annual/wind_parameters/Project_QuWind100/
+
+Dabei Auswahl von vergangenen und zukünftigen Daten.
+
+Vorschlag Datengrundlage: vergangene Daten, Jahresdurchschnitt, Höhe 100 m über Geländeoberfläche
+(ref_1981_2010/re_ff_mean_year_201902280000_l100.nc.bz2)
+Grundsätzlich können zusätzlich die Modellierungen hinzugezogen werden.

@@ -1,0 +1,11 @@
+[out:json][timeout:25];
+(
+  relation ['aeroway'='runway']({{bbox}});
+  relation ['aeroway'='taxiway']({{bbox}});
+  way ['aeroway'='runway']({{bbox}});
+  way ['aeroway'='taxiway']({{bbox}});
+); 
+/*added by auto repair*/
+(._;>;);
+/*end of auto repair*/
+out skel;

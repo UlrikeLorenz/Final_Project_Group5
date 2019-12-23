@@ -1,0 +1,15 @@
+[out:json][timeout:25];
+(
+  relation ['railway'='rail']({{bbox}});
+  relation ['railway'='narrow_gauge']({{bbox}});
+  relation ['railway'='light_rail']({{bbox}});
+  relation ['railway'='funicular']({{bbox}});
+  way ['railway'='rail']({{bbox}});
+  way ['railway'='narrow_gauge']({{bbox}});
+  way ['railway'='light_rail']({{bbox}});
+  way ['railway'='funicular']({{bbox}});
+); 
+/*added by auto repair*/
+(._;>;);
+/*end of auto repair*/
+out skel;
