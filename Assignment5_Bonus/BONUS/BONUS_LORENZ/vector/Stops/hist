@@ -1,0 +1,3 @@
+COMMAND: v.in.ogr --overwrite input="C:\Users\Ulrike\Desktop\Studium_Heidelberg\1_Semester\FOSSGIS\Assignment5\Stops_BONUS.geojson" output="Stops" min_area=0.0001 type="" snap=-1
+GISDBASE: C:\Users\Ulrike\Desktop\Studium_Heidelberg\1_Semester\FOSSGIS\Assignment5\Assignment5_Bonus
+LOCATION: BONUS MAPSET: BONUS_LORENZ USER: Ulrike DATE: Tue Dec 31 10:42:14 2019

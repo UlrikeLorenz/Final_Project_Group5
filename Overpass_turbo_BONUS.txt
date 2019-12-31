@@ -1,0 +1,19 @@
+/*
+This is an example Overpass query.
+Try it out by pressing the Run button above!
+You can find more examples with the Load tool.
+*/
+(	
+  way [highway=primary]({{bbox}});
+  way [highway=secondary]({{bbox}});
+  way [highway=tertiary]({{bbox}});
+  way [highway=trunk]({{bbox}});
+  way [highway=unclassified]({{bbox}});
+  way [highway=residential]({{bbox}});
+  way [highway=living_street]({{bbox}});
+  way [highway=pedestrian]({{bbox}});
+	);
+/*added by auto repair*/
+(._;>;);
+/*end of auto repair*/
+out;

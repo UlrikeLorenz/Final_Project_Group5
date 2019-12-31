@@ -1,0 +1,12 @@
+COMMAND: v.in.ogr --overwrite input="C:\Users\Ulrike\Desktop\Studium_Heidelberg\1_Semester\FOSSGIS\Assignment5\Roads_BONUS.geojson" output="Roads" min_area=0.0001 type="" snap=-1
+GISDBASE: C:\Users\Ulrike\Desktop\Studium_Heidelberg\1_Semester\FOSSGIS\Assignment5\Assignment5_Bonus
+LOCATION: BONUS MAPSET: BONUS_LORENZ USER: Ulrike DATE: Tue Dec 31 10:42:12 2019
+-----------------------------------------------------
+13 Eingabepolygone
+Gesamtfläche: 14544.8 (13 Flächen)
+Überlappende Fläche: 0 (0 Flächen)
+Fläche ohne Kategorie: 0 (0 Flächen)
+---------------------------------------------------------------------------------
+COMMAND: v.net --overwrite input="Roads" points="Stops" output="roads_stops_net" operation="connect" arc_layer="1" arc_type="line,boundary" node_layer="2" threshold=500 turn_layer="3" turn_cat_layer="4"
+GISDBASE: C:\Users\Ulrike\Desktop\Studium_Heidelberg\1_Semester\FOSSGIS\Assignment5\Assignment5_Bonus
+LOCATION: BONUS MAPSET: BONUS_LORENZ USER: Ulrike DATE: Tue Dec 31 10:42:16 2019
