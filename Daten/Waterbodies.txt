@@ -2,6 +2,7 @@
 ((area['de:amtlicher_gemeindeschluessel'='0822']; )->.a;
   relation['waterway'](area.a);
   way['waterway'](area.a);
+  relation['waterway'](area.a);
   way['natural'='water'](area.a);
   relation['natural'='wetland'](area.a);
   way['natural'='wetland'](area.a);
