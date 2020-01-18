@@ -4,7 +4,8 @@ import grass.script as gscript
 
 
 def main():
-    gscript.run_command('g.region', flags='p')
+    gscript.run_command('g.region', flags='p')
+
     '''
     #import data
 
@@ -25,7 +26,9 @@ def main():
     gscript.run_command('v.proj', location='finalProject', mapset='assignment5', input='Powerlines_region', overwrite=True)
 
     gscript.run_command('v.proj', location='finalProject', mapset='assignment5', input='Railways_region', overwrite=True)
-
+    
+    gscript.run_command('g.region', vector='Region')
+    
     #buffer areas
 
     gscript.run_command('v.buffer', input='Streets_region', distance=100, output='Streets_buffer', overwrite=True)
@@ -50,18 +53,18 @@ def main():
 
     gscript.run_command('v.patch', input=['Streets_buffer', 'Settlements_buffer_new', 'Airports_buffer', 'Farmyards_buffer', 'Industrial_Commercial_region', 'Powerlines_buffer'], output='Areas_new', overwrite=True)
 
-    '''
+    
     #calculate slope
     
     gscript.run_command('r.proj', location='finalProject', mapset='assignment5', input='DEM_region', output='DEM_region', overwrite=True)
-
-    gscript.run_command('r.slope', input='DEM', output='slope', overwrite=True)
-
+    
+    gscript.run_command('r.slope.aspect', elevation='DEM_region', slope='slope', aspect='aspect', pcurvature='pcurve', tcurvature='tcurve', overwrite=True)
+    '''
     #compare areas with the two distances to settlements
 
     
     #compare with winddata
-    gscript.run_command('r.in.gdal', input='NETCDF:r"C:\Users\Ulrike\Desktop\Studium_Heidelberg\1_Semester\FOSSGIS\Projekt\Final_Project_Group5\Daten\Winddaten\fu_ff_mean_year_201902280000_l100.nc":FF', ouput='Future_winddata')
+    gscript.run_command('r.in.gdal', input='NETCDF:"C:/Users/Ulrike/Desktop/Studium_Heidelberg/1_Semester/FOSSGIS/Projekt/Final_Project_Group5/Daten/Winddaten/fu_ff_mean_year_201902280000_l100.nc":FF', output='Future_winddata')
 
 
 

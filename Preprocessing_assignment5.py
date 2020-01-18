@@ -3,7 +3,8 @@
 import grass.script as gscript
 
 
-def main():
+def main():
+    '''
     gscript.run_command('g.region', flags='p')
     #import data
     gscript.run_command('v.in.ogr', input=r"C:\Users\carst\fossgis_gawlas\fossgis19_1\project_windkraft\Final_Project_Group5\Daten\NeckarOdenwaldKreis.geojson", output='NOK', flags='t', overwrite=True)
@@ -31,6 +32,8 @@ def main():
     gscript.run_command('v.clip', input='Airports', output='Airports_region', clip='Region', overwrite=True)
     gscript.run_command('v.clip', input='Powerlines', output='Powerlines_region', clip='Region', overwrite=True)
     #the command r.clip needs an addon, which will be installed automatically
+    '''
+    gscript.run_command('r.in.gdal', input='NETCDF:"C:/Users/Ulrike/Desktop/Studium_Heidelberg/1_Semester/FOSSGIS/Projekt/Final_Project_Group5/Daten/Winddaten/fu_ff_mean_year_201902280000_l100.nc":FF', output='Future_winddata')
 
 
 if __name__ == '__main__':
