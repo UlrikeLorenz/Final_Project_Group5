@@ -1,0 +1,9 @@
+[out:json];
+
+(
+ way["highway"="secondary"]({{bbox}});
+ rel["highway"="secondary"]({{bbox}});
+ way["highway"="secondary_link"]({{bbox}});
+ rel["highway"="secondary_link"]({{bbox}});
+);
+out center;

@@ -1,0 +1,13 @@
+[out:json];
+
+(
+ way["highway"="trunk"]({{bbox}});
+ rel["highway"="trunk"]({{bbox}});
+ way["highway"="trunk_link"]({{bbox}});
+ rel["highway"="trunk_link"]({{bbox}});
+ way["highway"="primary"]({{bbox}});
+ rel["highway"="primary"]({{bbox}});
+ way["highway"="primary_link"]({{bbox}});
+ rel["highway"="primary_link"]({{bbox}});
+);
+out center;
