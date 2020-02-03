@@ -1,1 +1,118 @@
-<mxfile host="www.draw.io" modified="2020-01-18T15:16:16.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="v8lOkX1a6aVeYxxH86VN" version="12.5.5" type="device"><diagram id="vU-wdXwZf3un0JegRpNA" name="Page-1">7Vpdc9o4FP01zGwfyNiWPx8TkrY7mbSZsjPbPgpbAe0ai8oiQH99ZSyBZSnBUBtCy5OlK0u2zj2+R1dyDwymyw8UziYPJEFpz7GSZQ/c9hzHDoDPL4VlVVoi2y0NY4oTcdPWMMQ/kDBawjrHCcqVGxkhKcMz1RiTLEMxU2yQUrJQb3siqfrUGRwjzTCMYapb/8UJm5TW0Am29o8IjyfyybYflS1TKG8WM8knMCGLignc9cCAEsLK0nQ5QGkBnsSl7Pf+hdbNi1GUsSYdksUnPE1vf/wXfs/vRuSOZp7Xd8pRnmE6FxP+PHzo30IGe+CaN3zkU1vAVd5zBrx2jemMUCZqj2SBKL+mOEPCNCLzLIEUy3qKcD6nSADAVhJV/mbcgbxys5hghoYzGBctC84hbpuwacprNi8+4TQdkJTQdT+QeChMXG7PGSX/o0pL6IyA7/MWHRaB1DOiDC0rJgHTB0SmiNEVv2Wpck9Q1pYeXGwJYLvCNlGcL4xQkG68GXrrF14QrtnDTWCHm4aIsRRN+ZTzM8PaUbEGrgFrx4B12BXUrgb1zfzpaU30BOcMZjE6O4wjTyX0qTH2X8G44HQdXjoh09E83xtePqYfxyZ4kyAaWVZL8Aa1eAE8Hd/AFC8sryOAAw1gnbJZcl3oI6/FKcxzHKtQvghMTuY0Rrs1hUE6Rmw3C1CiKLAOcwVGz4CitFGUQoafVd02ISue8Egwn9lLQd+zauQvpy06VWW2No6vjuN6tXFKWLRx1m7eTPpwz4en9Lx78fzpPB81Ei6+ei48eb7rhZqWeZZ7ZQi3R5UzSSAT9K8hfV6yBkLDssEka93hbGs47x3cOB509ZVXrCvOEmn4VhoCTxpuCxCsTW1VrT0iivmEEBXGw+MlaBgvJcHeaMCsO/zAgOmB4wZMW09+f4VOXpVM9g4iHc6Z6M/mTD0quc6RSaOn4g+IP5GbRjLmc6/CQmphlvQcH06LaJ6N8tna737Kgb0Z8fv8cVHCWRGS1wDn8/TsVMKPairh6yrhWAZe2fVlVnsyoafwe3/Xh3+fftPvM/wtv89Tx3SvhZi+xOxrpfxNRnBe3obzoqIsC4oufevKsgN1VeEed00hHbmbgNGFgB0QUE/AvyAegXHMEFcD67rUhroq1GN+sY+OEkGG/eI+snkmFpjifuQHALa1Rx6qODtNN279zsK+ngBnaNGrbo5XUuEzhNyr75WbziWOCrl8WAXy4nzt94XcBSeHvNUcWFWqndmvQRjtV4XxCDIm0b/IWJsyJlnVUm4ceL5KNStoyDXBykZsa3slFTakILgwsAMG6on2/gw0reQ3hGo9ZDXemrkQpgvCdJX67SCMWU272wB0mirjhWad0KyFE9azWIC9LfZ4rur2IDqQPlH9mLa+VO+aP3qaelL+vL6zdeHPLv6AI/MH6D9PPRLG3YNh0bc4e+CXv8o8XKbe7zSKvf3cWwP6mLn3P+8Hfv973L/5G98/MHyPv8B7w8+y8jgnwc/yPMfkjHIfquKMshd/iUrH07hI84fBa41d1OX2CK9u/5UuP6btH+fg7ic=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-03T15:59:21.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="PA39XMD3zcBUwTcsFRo9" version="12.6.4" type="github">
+  <diagram id="vU-wdXwZf3un0JegRpNA" name="Page-1">
+    <mxGraphModel dx="1422" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="dwNimlDzj8qsEboErn55-2" value="OSM-Data: Highways, Airports, Power lines, boundaries, leisure" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="10" y="120" width="140" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-3" value="OSM-Data: Settlements" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="20" y="340" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-4" value="Buffer distances" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="295" y="10" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-6" value="Buffer data" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="270" y="135" width="170" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-7" value="" style="endArrow=classic;html=1;" parent="1" source="dwNimlDzj8qsEboErn55-2" target="dwNimlDzj8qsEboErn55-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="500" as="sourcePoint"/>
+            <mxPoint x="60" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-8" value="" style="endArrow=classic;html=1;" parent="1" source="dwNimlDzj8qsEboErn55-4" target="dwNimlDzj8qsEboErn55-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="500" as="sourcePoint"/>
+            <mxPoint x="60" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-9" value="Buffer distances to settlements" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="295" y="504.5" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-10" value="Buffer settlements" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="270" y="380" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-11" value="" style="endArrow=classic;html=1;entryX=0.212;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dwNimlDzj8qsEboErn55-3" target="dwNimlDzj8qsEboErn55-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="580" as="sourcePoint"/>
+            <mxPoint x="60" y="530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dwNimlDzj8qsEboErn55-9" target="dwNimlDzj8qsEboErn55-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="580" as="sourcePoint"/>
+            <mxPoint x="270" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-13" value="Merge buffer areas and&amp;nbsp;&lt;br&gt;invert results" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="690" y="360" width="200" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-14" value="" style="endArrow=classic;html=1;" parent="1" source="dwNimlDzj8qsEboErn55-6" target="dwNimlDzj8qsEboErn55-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="580" as="sourcePoint"/>
+            <mxPoint x="60" y="530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-15" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dwNimlDzj8qsEboErn55-10" target="dwNimlDzj8qsEboErn55-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="580" as="sourcePoint"/>
+            <mxPoint x="60" y="530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-18" value="Restricted Areas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="580" y="157.5" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-19" value="new Settlement distance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-20" value="old Settlement distance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="520" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-21" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dwNimlDzj8qsEboErn55-10" target="dwNimlDzj8qsEboErn55-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="580" as="sourcePoint"/>
+            <mxPoint x="60" y="530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-22" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dwNimlDzj8qsEboErn55-18" target="dwNimlDzj8qsEboErn55-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="580" as="sourcePoint"/>
+            <mxPoint x="60" y="530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dwNimlDzj8qsEboErn55-19" target="dwNimlDzj8qsEboErn55-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="580" as="sourcePoint"/>
+            <mxPoint x="60" y="530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-25" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dwNimlDzj8qsEboErn55-20" target="dwNimlDzj8qsEboErn55-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="580" as="sourcePoint"/>
+            <mxPoint x="60" y="530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-28" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dwNimlDzj8qsEboErn55-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="790" as="sourcePoint"/>
+            <mxPoint x="960" y="460" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-29" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="dwNimlDzj8qsEboErn55-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="790" as="sourcePoint"/>
+            <mxPoint x="960" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwNimlDzj8qsEboErn55-36" value="Potential area (old distance)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="960" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TFC6-qc-BIiKMtiKiRaK-2" value="&lt;div&gt;Potential area (new distance)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="960" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
