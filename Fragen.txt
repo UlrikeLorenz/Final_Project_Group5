@@ -1,0 +1,7 @@
+Offene Fragen:
+
+-Mindestfläche WEA?
+-Landuselayer? (Bisheriger Lückenhaft)
+-Höhe WEA?
+-Quelle Eingabewerte oder eigene Festlegung?
+-Literaturteil für Report?
