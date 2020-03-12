@@ -1,0 +1,718 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-03-12T11:32:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/373410457",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5121662,
+          49.5507133
+        ]
+      },
+      "id": "node/373410457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/373410487",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5113478,
+          49.5479003
+        ]
+      },
+      "id": "node/373410487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388339324",
+        "generator:source": "wind",
+        "power": "generator",
+        "ref": "FL145/2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4761832,
+          49.5290269
+        ]
+      },
+      "id": "node/388339324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/668072823",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "140",
+        "power": "generator",
+        "start_date": "03.06.2004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5020362,
+          49.4611548
+        ]
+      },
+      "id": "node/668072823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/777848378",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.478115,
+          49.5362339
+        ]
+      },
+      "id": "node/777848378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/777849117",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4707073,
+          49.5266398
+        ]
+      },
+      "id": "node/777849117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/799398165",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3688954,
+          49.5302117
+        ]
+      },
+      "id": "node/799398165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/821229198",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2050 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "146",
+        "name": "WKA 1",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2491024,
+          49.5567099
+        ]
+      },
+      "id": "node/821229198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/821229204",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2050 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "146",
+        "name": "WKA 2",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2566882,
+          49.5574227
+        ]
+      },
+      "id": "node/821229204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/821229208",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2050 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "146",
+        "name": "WKA 3",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2584893,
+          49.5604727
+        ]
+      },
+      "id": "node/821229208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/838650407",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "146",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2692719,
+          49.4556902
+        ]
+      },
+      "id": "node/838650407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/838650424",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2000 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "146",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2745871,
+          49.4535339
+        ]
+      },
+      "id": "node/838650424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1290810208",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.515526,
+          49.5552635
+        ]
+      },
+      "id": "node/1290810208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1777368358",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5148016,
+          49.5522882
+        ]
+      },
+      "id": "node/1777368358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1777368394",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.51637,
+          49.5488446
+        ]
+      },
+      "id": "node/1777368394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2091456721",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4664868,
+          49.528032
+        ]
+      },
+      "id": "node/2091456721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2091456733",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4794751,
+          49.5328232
+        ]
+      },
+      "id": "node/2091456733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2282434067",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5378283,
+          49.3926418
+        ]
+      },
+      "id": "node/2282434067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2282434068",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5361314,
+          49.3942332
+        ]
+      },
+      "id": "node/2282434068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2282434069",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5339927,
+          49.3959373
+        ]
+      },
+      "id": "node/2282434069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2391975269",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3200 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "200",
+        "height:hub": "143 m",
+        "manufacturer": "Senvion",
+        "manufacturer:type": "3.2M114",
+        "name": "WKA 5",
+        "power": "generator",
+        "rotor:diameter": "114 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.399748,
+          49.5347483
+        ]
+      },
+      "id": "node/2391975269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421263828",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3757099,
+          49.5292217
+        ]
+      },
+      "id": "node/2421263828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421263959",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3200 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "200",
+        "height:hub": "143 m",
+        "manufacturer": "Senvion",
+        "manufacturer:type": "3.2M114",
+        "name": "WKA 1",
+        "power": "generator",
+        "rotor:diameter": "114 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4018219,
+          49.5458353
+        ]
+      },
+      "id": "node/2421263959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421263960",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3200 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "200",
+        "height:hub": "143 m",
+        "manufacturer": "Senvion",
+        "manufacturer:type": "3.2M114",
+        "name": "WKA 4",
+        "power": "generator",
+        "rotor:diameter": "114 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3840653,
+          49.5407117
+        ]
+      },
+      "id": "node/2421263960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421263961",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3200 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "200",
+        "height:hub": "143 m",
+        "manufacturer": "Senvion",
+        "manufacturer:type": "3.2M114",
+        "name": "WKA 2",
+        "power": "generator",
+        "rotor:diameter": "114 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3976038,
+          49.5409839
+        ]
+      },
+      "id": "node/2421263961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421263962",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3200 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "200",
+        "height:hub": "143 m",
+        "manufacturer": "Senvion",
+        "manufacturer:type": "3.2M114",
+        "name": "WKA 3",
+        "power": "generator",
+        "rotor:diameter": "114 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4008392,
+          49.5380515
+        ]
+      },
+      "id": "node/2421263962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511560687",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "yes",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5377648,
+          49.3893582
+        ]
+      },
+      "id": "node/2511560687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4060163582",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.492232,
+          49.414658
+        ]
+      },
+      "id": "node/4060163582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4060163583",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.485907,
+          49.415135
+        ]
+      },
+      "id": "node/4060163583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4060163584",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4834962,
+          49.4180863
+        ]
+      },
+      "id": "node/4060163584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4060163585",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.491164,
+          49.418485
+        ]
+      },
+      "id": "node/4060163585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5246767082",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2750 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "199",
+        "power": "generator",
+        "ref": "GE-27161851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5068039,
+          49.4621561
+        ]
+      },
+      "id": "node/5246767082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5246781121",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2750 kW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "199",
+        "power": "generator",
+        "ref": "GE-27161850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5125153,
+          49.4655795
+        ]
+      },
+      "id": "node/5246781121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5694377524",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "power": "generator",
+        "ref": "1410072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5102262,
+          49.5185975
+        ]
+      },
+      "id": "node/5694377524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5694381421",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "power": "generator",
+        "ref": "1410073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5140121,
+          49.5147313
+        ]
+      },
+      "id": "node/5694381421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5694399665",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "power": "generator",
+        "ref": "1410070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.521644,
+          49.5208269
+        ]
+      },
+      "id": "node/5694399665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5694402308",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5220661,
+          49.5173053
+        ]
+      },
+      "id": "node/5694402308"
+    }
+  ]
+}
